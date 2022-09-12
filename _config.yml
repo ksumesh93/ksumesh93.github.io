@@ -87,7 +87,7 @@ author:
   employer         :
   #pubmed           : "https://www.ncbi.nlm.nih.gov/pubmed/?term=john+snow"
   googlescholar    : "https://scholar.google.com/citations?hl=en&user=pJJjrrkAAAAJ"
-  email            :
+  email            : "skuma027@fiu.edu"
   researchgate     :  # example: "https://www.researchgate.net/profile/yourprofile"
   uri              :
   bitbucket        :
@@ -115,6 +115,7 @@ author:
   xing             :
   youtube          :
   wikipedia        :
+  resume           : "resume.pdf"
 
 
 # Reading Files
@@ -311,3 +312,4 @@ compress_html:
     envs: development
 
 theme: jekyll-theme-midnight
+github: [metadata]

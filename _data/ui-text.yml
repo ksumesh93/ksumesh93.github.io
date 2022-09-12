@@ -4,6 +4,7 @@
 # -----------------
 en: &DEFAULT_EN
   page                       : "Page"
+  resume_label               : "Resume"
   pagination_previous        : "Previous"
   pagination_next            : "Next"
   breadcrumb_home_label      : "Home"
